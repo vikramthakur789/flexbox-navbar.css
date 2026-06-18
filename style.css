@@ -1,0 +1,15 @@
+ul{
+    background-color:pink;
+    display:flex;
+    justify-content:space-evenly;
+}
+
+a{
+    text-decoration:none;
+    color:darkblue;
+}
+
+li{
+    list-style-type:none;
+    /* background-color:red; */
+}
